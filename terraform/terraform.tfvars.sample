@@ -1,0 +1,13 @@
+cp-management-host     = "change-cp-mgmt-ip"
+cp-management-user     = "admin"
+cp-management-password = "change-cp-mgmt-pwd"
+
+####
+
+az-tenantid = "change-tenant-id"
+az-appid    = "change-app-id"
+az-secret   = "change-app-secret"
+
+###
+aks1_hostname = "change-cluster-api-url"
+aks1_token    = "change-k8s-SA-b64-encoded-token"
